@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Welcome back to my area of specialisation</Text>
+      <Text>Welcome back to my area of specialisations yeah</Text>
       <StatusBar style="auto" />
     </View>
   );
